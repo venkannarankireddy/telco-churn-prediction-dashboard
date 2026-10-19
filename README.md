@@ -4,7 +4,7 @@ End-to-end churn analysis on 7,043 telecom customers: a Python ML model that sco
 
 **Live dashboard:** [View on Tableau Public]https://public.tableau.com/app/profile/rankireddy.venkanna.babu/viz/Telecom_Customer_Churn_Analysis_17924107795680/TelecomChurnDashboard?publish=yes
 
-![Dashboard](images/Dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 ## Business Problem
 Which customers are leaving, why, and who is most at risk next?
